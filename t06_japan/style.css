@@ -1,0 +1,18 @@
+.japan {
+  position: relative;/* Относительное позиционирование */
+  width: 20em;
+  height: 15em;
+  border: 1px solid grey;
+}
+
+.japan:after {
+  content: "";
+  /* display: inline-block; */
+  background-color: rgb(151, 28, 28);
+  width: 8em;
+  height: 8em;
+  left: 6em;
+  top: 3.5em;
+  border-radius: 50%;
+  position: absolute;/* Абсолютное позиционирование */
+}

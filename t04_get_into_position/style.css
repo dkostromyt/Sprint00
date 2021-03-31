@@ -1,0 +1,15 @@
+span {
+  
+  text-align: center;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: 16px;
+}
+h1 {
+  font-size: 4em;
+  position: relative;
+  text-align: center;
+  background-color: red;
+  margin: 0px auto;
+}
