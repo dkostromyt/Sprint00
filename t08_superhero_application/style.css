@@ -1,21 +1,13 @@
 form {
-  padding: 20px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: silver;
+    border: 2px solid silver;
+    padding: 20px;
 }
+
 fieldset {
-  padding: 20px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: silver;
-  margin: 10px;
-}
-textarea {
-  border-style: solid;
-  border-width: 2px;
-  border-color: silver;
+    border: 2px solid silver;
+    padding: 20px;
+    margin: 20px;
 }
 .about {
-  margin: 15px;
-}
+    margin: 15px;
+  }
